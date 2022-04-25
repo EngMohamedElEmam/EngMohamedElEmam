@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-class SoftwareEngineer:
+class DevOpsConsultant:
     def __init__(self):
         self.name = "Mohamed ElEmam"
         self.role = "DevOps Consultant"
