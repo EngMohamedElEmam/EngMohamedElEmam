@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 class DevOpsConsultant:
     def __init__(self):
         self.name = "Mohamed ElEmam"
-        self.role = "DevOps Consultant"
+        self.role = "DevOps Senior Consultant"
         self.language_spoken = ["ar_EG", "en_US"]
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
