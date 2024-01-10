@@ -34,7 +34,7 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website: https://www.devops-consulting.ml/
+- Personal website: https://mohamedelemam.netlify.app
 - Articles: https://medium.com/@Mohamed-ElEmam
 - LinkedIn: https://www.linkedin.com/in/mohamedelemam2020/
 
